@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-[![The Ninja's Stats](https://github-readme-stats.vercel.app/api?username=samuraininja360&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![The Ninja's Stats](https://github-readme-stats.vercel.app/api?username=samuraininja360&theme=html)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **samuraininja360/samuraininja360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

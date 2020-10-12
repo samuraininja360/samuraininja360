@@ -4,6 +4,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&title_color=0068ff&bg_color=000000&text_color=ffffff&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
+### About Me
+
 I am Proficient in 🐱Scratch, HTML/CSS and JavaScript so feel free to join me in Web Development
 
 I am currently Learning Unity C# as well
@@ -13,6 +15,8 @@ SratchHub is under progress but Spots are Available
 Funlogy: Educational Website (5%)
 
 samuraininja360.github.io: Free JavaScript Games Website (25%)
+
+<a href=¨https://scratch.mit.edu/users/samuraininja360¨>Scratch Profile</a>
 <!--
 **samuraininja360/samuraininja360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

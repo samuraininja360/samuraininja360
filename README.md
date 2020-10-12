@@ -16,7 +16,7 @@ Funlogy: Educational Website (5%)
 
 samuraininja360.github.io: Free JavaScript Games Website (25%)
 
-<a href=¨https://scratch.mit.edu/users/samuraininja360¨>Scratch Profile</a>
+[Scratch Profile]: https://scratch.mit.edu/users/samuraininja360¨
 <!--
 **samuraininja360/samuraininja360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

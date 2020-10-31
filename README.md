@@ -12,7 +12,7 @@ I am currently Learning Unity C# as well
 
 SratchHub is under progress but Spots are Available 
 
-Funlogy: Educational Website (5%)
+Digilogy: Educational Website (5%)
 
 samuraininja360.github.io: Free JavaScript Games Website (25%)
 

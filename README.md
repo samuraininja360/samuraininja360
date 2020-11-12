@@ -10,7 +10,7 @@ I am Proficient in 🐱Scratch, HTML/CSS and JavaScript so feel free to join me 
 
 I am currently Learning Unity C# as well
 
-SratchHub is under progress but Spots are Available 
+SratchLab is under progress but Spots are Available 
 
 Digilogy: Educational Website (5%)
 

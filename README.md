@@ -18,7 +18,7 @@ samuraininja360.github.io: Free JavaScript Games Website (25%)
 
 [Scratch Profile](https://scratch.mit.edu/users/samuraininja360)
 
-[Website](https://thebugsquash.wixsite.com/samuraininja)
+[Website](https://samuraininja360.github.io)
 
 [Dribbble](https://dribbble.com/Ninja360)
 <!--

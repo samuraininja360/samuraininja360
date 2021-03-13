@@ -12,9 +12,9 @@ I am currently Learning Unity C# as well
 
 SratchLab is under progress but Spots are Available 
 
-Digilogy: Educational Website (5%)
+Ninjaspect: Educational Website (5%)
 
-samuraininja360.github.io: Free JavaScript Games Website (25%)
+samuraininja360.github.io: My Portfolio (25%)
 
 [Scratch Profile](https://scratch.mit.edu/users/samuraininja360)
 

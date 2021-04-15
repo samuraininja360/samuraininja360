@@ -6,11 +6,9 @@
 
 ### About Me
 
-I am Proficient in 🐱Scratch, HTML/CSS and JavaScript so feel free to join me in Web Development
+I am Proficient in 🐱Scratch, HTML/CSS, JavaScript and Python so feel free to join me in Web Development
 
 I am currently Learning Unity C# as well
-
-SratchLab is under progress but Spots are Available 
 
 Ninjaspect: Educational Website (5%)
 
@@ -21,6 +19,8 @@ samuraininja360.github.io: My Portfolio (25%)
 [Website](https://samuraininja360.github.io)
 
 [Dribbble](https://dribbble.com/Ninja360)
+
+[Discord Bot](https://github.com/samuraininja360/shroud-ninja.js)
 <!--
 **samuraininja360/samuraininja360** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

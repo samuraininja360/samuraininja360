@@ -8,11 +8,11 @@
 
 I am Proficient in 🐱Scratch, HTML/CSS, JavaScript and Python so feel free to join me in Web Development
 
-I am currently Learning Unity C# as well
+I am currently learning C# as well
 
-Ninjaspect: Educational Website (5%)
+Ninjaspect: Educational Website (10%)
 
-samuraininja360.github.io: My Portfolio (25%)
+samuraininja360.github.io: My Portfolio (30%)
 
 [Scratch Profile](https://scratch.mit.edu/users/samuraininja360)
 

@@ -1,4 +1,4 @@
-### Hello! 👋
+### I am The Shroud Ninja!
 
 [![The Shroud Ninja's Stats](https://github-readme-stats.vercel.app/api?username=samuraininja360&theme=dark&show_icons=true&icon_color=0068ff&bg_color=0d1117&text_color=cccccc&title_color=0068ff&hide_border=true)](https://ninjaspect.github.io)
 

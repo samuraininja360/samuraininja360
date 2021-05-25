@@ -1,6 +1,6 @@
 ### Hello! 👋
 
-[![The Shroud Ninja's Stats](https://github-readme-stats.vercel.app/api?username=samuraininja360&theme=dark&show_icons=true&icon_color=0068ff&bg_color=0d1117&text_color=cccccc&title_color=0068ff&hide_border=true)](https://github.com/ninjaspect.github.io)
+[![The Shroud Ninja's Stats](https://github-readme-stats.vercel.app/api?username=samuraininja360&theme=dark&show_icons=true&icon_color=0068ff&bg_color=0d1117&text_color=cccccc&title_color=0068ff&hide_border=true)](https://ninjaspect.github.io)
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=samuraininja360&title_color=0068ff&bg_color=0d1117&text_color=ffffff&layout=compact&hide_border=true)](https://github.com/samuraininja360.gitihub.io)
 

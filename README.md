@@ -18,7 +18,7 @@ samuraininja360.github.io: My Portfolio (30%)
 
 [Website](https://samuraininja360.github.io)
 
-[Dribbble](https://dribbble.com/Ninja360)
+[Dribbble](https://dribbble.com/TheShroudNinja)
 
 [Discord Bot](https://github.com/samuraininja360/shroud-ninja.js)
 <!--

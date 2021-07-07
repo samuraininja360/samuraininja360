@@ -19,7 +19,7 @@ I am Proficient in 🐱Scratch, HTML/CSS/JS, NodeJS, ReactJS and Python. I like 
   <a href="https://reactjs.org//" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react" width="40" height="40"/> </a>
 </p>
 
-Ninjaspect: Educational Website (10%)
+Ninjaspect: Educational Website (20%)
 
 samuraininja360.github.io: My Portfolio (30%)
 
